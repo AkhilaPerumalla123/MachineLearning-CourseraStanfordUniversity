@@ -1,36 +1,42 @@
-# MachineLearning-CourseraStanfordUniversity
+# Machine Learning - Coursera 
 Assignments completed during online course by Stanford - Andrew Ng
 
-Software used- Matlab / Octave
+Software used- MATLAB / Octave
 
-Projects done-
+Projects done:
 
-hand writing recognition using neural networks
-building email spam classifiers
-optical character recognition in pics
-movie recommender systems
-supervised learning-
-neural networks
+•	Handwriting recognition using neural networks
 
-linear regression
+•	Building email spam classifiers
 
-logistic regression
+•	Optical character recognition in pics
 
-model selection
+•	Movie recommender systems
 
-support vector machine
+#	Supervised learning
 
-unsupervised learning-
-K-means algorithm
+  •	Neural networks
+  
+  •	Linear regression
+  
+  •	Logistic regression
+  
+  •	Model selection
+  
+  •	Support vector machine
+  
+#	Unsupervised learning
 
-principal component analysis
-
-anomaly detection by multivariate gaussian system
-
-collaborative filtering
-
-large scale machine learning
-
-online learning
-
-recommender systems
+  •	K-means algorithm
+  
+  •	Principal component analysis
+  
+  •	Anomaly detection by multivariate gaussian system
+  
+  •	Collaborative filtering
+  
+  •	Large scale machine learning
+  
+  •	Online learning
+  
+  •	Recommender systems
