@@ -1,7 +1,10 @@
 # MachineLearning-CourseraStanfordUniversity
 Assignments completed during online course by Stanford - Andrew Ng
+
 Software used- Matlab / Octave
+
 Projects done-
+
 hand writing recognition using neural networks
 building email spam classifiers
 optical character recognition in pics
